@@ -1,1 +1,1 @@
-An interpreter written in cpp. Still in development
+A fun interpreter written in cpp
