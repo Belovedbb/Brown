@@ -1,7 +1,4 @@
-A Programming Language written in cpp with similar C Language syntax 
-
-#### Syntax Definition
-
+## Brown is a small, fast interpreter language
 ```
 
 proc a(mut b){
@@ -44,3 +41,6 @@ else
 out "branching is cool";
 ```
 
+ *  **Brown is small.** It does evaluation on the fly and gives out. It is readable and with nice commenting capabilities.
+
+ *  **Brown is fast.** It is a single-pass interpreter that interprets and evaluates from brown to c.
